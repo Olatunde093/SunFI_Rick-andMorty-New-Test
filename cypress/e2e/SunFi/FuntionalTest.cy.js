@@ -65,7 +65,7 @@ describe('Search by Full First Name', () => {
 
       // This test case is essential for validating the reverse functionality of the favorites feature. 
       // Ensuring that users can easily remove characters from the favorites list is critical to providing
-      // a smooth user experience. Automating this prevents regressions when the app is updated
+      // a smooth user experience. Automating this prevents regressions when the app is updated.
     });
   });
   
