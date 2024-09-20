@@ -10,7 +10,7 @@ Body(){
     return cy.get ('.container > :nth-child(2)')
 }
 CharacterList(){
-    return cy.get('.CharacterList_root__3dgo- > .utility_textAccent__25rFx')
+    return cy.get('.container > :nth-child(2)')
 }
 Favorite(){
     return cy.get('[data-test-id="list-Favorites"]')
