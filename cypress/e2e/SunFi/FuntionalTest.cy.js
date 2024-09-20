@@ -4,7 +4,7 @@ import Element from "../../../Pages/Element.cy"
 
 const element = new Element
 
-describe('Search by Full First Name', () => {
+describe('Search by Full First Name and Last Name', () => {
     it('should return characters matching the full first name', () => {
         element.Visit()
         element.Search().type('Rick Sanchez')
