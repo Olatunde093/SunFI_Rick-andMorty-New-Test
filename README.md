@@ -23,11 +23,11 @@ To get the test suite up and running on a local environment, do the following:
 
 clone the repository with the following command:
 # get test suite
-$ git clone https://github.com/Olatunde093/IVORY-PAY-REGISTRATION-PAGE.git
+$ git clone https://github.com/Olatunde093/SunFi_Rick-andMorty-New-Test.git
 Open the folder of the cloned repository
 Change directory in your command line tool to the root directory of the test suite
 # Change into test suite directory
-$ cd IVORY-PAY-REGISTRATION
+$ cd SunFI_Rick-andMorty-New-Test
 Install the dependencies of the test suite
 # Install dependencies
 $ npm install
